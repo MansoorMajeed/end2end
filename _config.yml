@@ -15,36 +15,36 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
-baseurl: "/end2end"
+title: esc.sh
+description: "Mansoor A, Site Reliability Engineer"
+keywords: "sysadmin, engineer, linux, devops, SRE, blog, web"
+url: https://esc.sh
+baseurl: ""
 
-google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
-disqus_shortname: "nandothemes"
-disqus_site_shortname: "nandothemes"
+#google_analytics: UA-52446115-1
+repo: http://github.com/mansoormajeed/landing-page
+#disqus_shortname: "nandothemes"
+#disqus_site_shortname: "nandothemes"
 
 # Author settings
 author:
-  name: Fernando Moreira
-  job: Frontend Engineer
-  bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name: Mansoor A
+  job: Site Reliability Engineer
+  bio: "Full time Linux geek, part time traveller, martial artist, (motor)cyclist"
   thumb: /images/author.jpg
-  email: nandomoreira.me@gmail.com
-  url: https://nandomoreira.me/
-  github: https://github.com/nandomoreirame
-  twitter: https://twitter.com/umdevux
-  facebook: https://facebook.com/umdevux
-  linkedin: https://linkedin.com/in/nandomoreirame
+  email: me@esc.sh
+  url: https://esc.sh/
+  github: https://github.com/mansoormajeed
+  twitter: https://twitter.com/manzmajeed
+  facebook: https://facebook.com/manz.majeed
+  linkedin: https://linkedin.com/in/mansoormajeed
 
 # navbar pages
 navbar:
   - slug: about
     title: About
-  - slug: icons
-    title: Icons
+  - slug: travel
+    title: Travel
   - slug: blog
     title: Blog
 
