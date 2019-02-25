@@ -30,7 +30,7 @@ repo: http://github.com/mansoormajeed/landing-page
 author:
   name: Mansoor A
   job: Site Reliability Engineer
-  bio: "Full time Linux geek, part time traveller, martial artist, (motor)cyclist"
+  bio: "Building castles in the cloud, amateur traveller, martial artist, (motor)cyclist"
   thumb: /images/author.jpg
   email: me@esc.sh
   url: https://esc.sh/
@@ -38,6 +38,7 @@ author:
   twitter: https://twitter.com/manzmajeed
   facebook: https://facebook.com/manz.majeed
   linkedin: https://linkedin.com/in/mansoormajeed
+  instagram: https://instagram.com/_mansoor_majeed
 
 # navbar pages
 navbar:
